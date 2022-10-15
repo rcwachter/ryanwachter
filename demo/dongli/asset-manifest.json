@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/demo/dongli/static/css/main.fb362f68.css",
+    "main.js": "/demo/dongli/static/js/main.5017d0f8.js",
+    "static/media/me-about.png": "/demo/dongli/static/media/me-about.c56216ede62c921acd82.png",
+    "static/media/me.png": "/demo/dongli/static/media/me.232315cd08d793b38b8b.png",
+    "static/media/portfolio5.png": "/demo/dongli/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/demo/dongli/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/demo/dongli/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/demo/dongli/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/demo/dongli/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/demo/dongli/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/demo/dongli/index.html",
+    "main.fb362f68.css.map": "/demo/dongli/static/css/main.fb362f68.css.map",
+    "main.5017d0f8.js.map": "/demo/dongli/static/js/main.5017d0f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb362f68.css",
+    "static/js/main.5017d0f8.js"
+  ]
+}
