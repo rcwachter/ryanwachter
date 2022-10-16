@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/demo/zeitgeist/static/css/main.8827d650.css",
+    "main.js": "/demo/zeitgeist/static/js/main.50c37faf.js",
+    "static/media/me-about.png": "/demo/zeitgeist/static/media/me-about.10ded31b00e5bde5019d.png",
+    "static/media/me.png": "/demo/zeitgeist/static/media/me.aebf100cfce5e43f553c.png",
+    "static/media/portfolio5.png": "/demo/zeitgeist/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/portfolio2.jpg": "/demo/zeitgeist/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/demo/zeitgeist/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/demo/zeitgeist/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/demo/zeitgeist/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/demo/zeitgeist/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/demo/zeitgeist/index.html",
+    "main.8827d650.css.map": "/demo/zeitgeist/static/css/main.8827d650.css.map",
+    "main.50c37faf.js.map": "/demo/zeitgeist/static/js/main.50c37faf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8827d650.css",
+    "static/js/main.50c37faf.js"
+  ]
+}
