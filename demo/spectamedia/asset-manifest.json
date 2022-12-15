@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/demo/spectamedia/static/css/main.6ae2deb2.css",
+    "main.js": "/demo/spectamedia/static/js/main.b066d2c0.js",
+    "static/media/portfolio5.png": "/demo/spectamedia/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/me-about.png": "/demo/spectamedia/static/media/me-about.68c60bd290b2ef75507d.png",
+    "static/media/portfolio2.jpg": "/demo/spectamedia/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/demo/spectamedia/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/demo/spectamedia/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/demo/spectamedia/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/me.png": "/demo/spectamedia/static/media/me.9cf53f430681f51a9ca0.png",
+    "static/media/portfolio4.jpg": "/demo/spectamedia/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/avatar2.jpg": "/demo/spectamedia/static/media/avatar2.b9c48c9825741f293fc5.jpg",
+    "static/media/avatar1.jpg": "/demo/spectamedia/static/media/avatar1.1836921f0712ca7eaf77.jpg",
+    "index.html": "/demo/spectamedia/index.html",
+    "main.6ae2deb2.css.map": "/demo/spectamedia/static/css/main.6ae2deb2.css.map",
+    "main.b066d2c0.js.map": "/demo/spectamedia/static/js/main.b066d2c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ae2deb2.css",
+    "static/js/main.b066d2c0.js"
+  ]
+}
