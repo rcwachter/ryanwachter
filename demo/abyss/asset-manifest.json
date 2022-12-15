@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/demo/abyss/static/css/main.19224cfb.css",
+    "main.js": "/demo/abyss/static/js/main.3e83edbe.js",
+    "static/media/me-about.png": "/demo/abyss/static/media/me-about.5f21b36147564265d59e.png",
+    "static/media/portfolio5.png": "/demo/abyss/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/me.png": "/demo/abyss/static/media/me.ed3c77216e0a22a161d3.png",
+    "static/media/portfolio2.jpg": "/demo/abyss/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/demo/abyss/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/demo/abyss/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/demo/abyss/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/demo/abyss/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "index.html": "/demo/abyss/index.html",
+    "main.19224cfb.css.map": "/demo/abyss/static/css/main.19224cfb.css.map",
+    "main.3e83edbe.js.map": "/demo/abyss/static/js/main.3e83edbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.19224cfb.css",
+    "static/js/main.3e83edbe.js"
+  ]
+}
